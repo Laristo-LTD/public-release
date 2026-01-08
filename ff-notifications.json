@@ -12,9 +12,9 @@
     "content": "I. Cập nhật chung\n  + Bổ sung Fastflow Helper Extension\n  + Fix lỗi recaptchaToken"
   },
   {
-    "time": "27/12/2025",
+    "time": "08/01/2026",
     "type": "INFO",
     "title": "Cập nhật tính năng", 
     "content": "I. Cập nhật chung\n  + [extension] - fix lỗi đọc cookies (email, EMAIL)"
-  }
+  },
 ]
