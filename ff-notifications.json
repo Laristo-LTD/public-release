@@ -1,2 +1,14 @@
-
-[{ "time": "08/01/2026 12:01:00" , "content": "Test thong bao" }]
+[
+  {
+    "time": "06/12/2025 00:00:00",
+    "content": "I. Cập nhật chung\n  + Fix lỗi xoá dữ liệu trong cài đặt chung\n  + Bổ sung Đăng xuất trong cài đặt chung: Clear Device ID, License key, License data\n\nII. Cập nhật theo tính năng\nVăn bản sang Video (T2V)\n+ Thêm option models: VEO 3.1 - Fast [Ultra], VEO 3.1 - Fast [Ultra] [Lower Priority]\n\nTạo video từ các thành phần (C2V)\n+ Bổ sung tính năng auto choose account\n+ Bổ sung tính năng chọn pair-input (images-prompt) từ folder\n\nTạo hình ảnh (nano-banana)\n+ Bổ sung tính năng auto choose account\n+ Bổ sung tính năng chọn pair-input (images-prompt) từ folder"
+  },
+  {
+    "time": "18/12/2025 00:00:00",
+    "content": "I. Cập nhật chung\n  + Bổ sung Fastflow Helper Extension\n  + Fix lỗi recaptchaToken"
+  },
+  {
+    "time": "27/12/2025 00:00:00",
+    "content": "I. Cập nhật chung\n  + [extension] - fix lỗi đọc cookies (email, EMAIL)"
+  }
+]
