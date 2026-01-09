@@ -16,5 +16,5 @@
     "type": "INFO",
     "title": "Cập nhật tính năng", 
     "content": "I. Cập nhật chung\n  + [extension] - fix lỗi đọc cookies (email, EMAIL)"
-  },
+  }
 ]
