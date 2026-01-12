@@ -1,30 +1,30 @@
 [
-   {
+  {
     "id": 4,
-    "time": "10/01/2026 00:00:00",
+    "time": "12/01/2026 10:00:00",
     "type": "NOTI",
-    "title": "Thông báo mẫu", 
-    "content": "Vui lòng bỏ qua thông báo này"
+    "title": "Ra mắt tính năng Thông báo",
+    "content": "Với mục tiêu nâng cao và hoàn thiện trải nghiệm người dùng, Fast Flow chính thức ra mắt **tính năng Thông báo**, đóng vai trò là kênh giao tiếp chính thức giữa Fast Flow Team và người dùng trong suốt quá trình sử dụng sản phẩm.\n\nThông qua tính năng này, người dùng sẽ nhận được các nội dung quan trọng, bao gồm nhưng không giới hạn:\n\n- **Thủ thuật**: Các mẹo sử dụng, hướng dẫn tối ưu và kinh nghiệm khai thác hiệu quả các tính năng của Fast Flow.  \n- **Thông báo**: Các thông tin cập nhật ngẫu nhiên, chương trình ưu đãi, quà tặng hoặc hoạt động dành cho người dùng.  \n- **Hệ thống**: Thông tin cập nhật phiên bản, thay đổi tính năng, thông báo bảo trì hoặc cập nhật liên quan đến extension và hệ thống.\n\nĐể không bỏ lỡ các thông tin mới nhất, vui lòng **thường xuyên đồng bộ thông báo bằng cách nhấn nút Refresh** trong mục Thông báo."
   },
   {
     "id": 3,
-    "time": "06/12/2025 00:00:00",
+    "time": "11/01/2026 10:00:00",
     "type": "SYSTEM",
-    "title": "Cập nhật version 1.5.0", 
-    "content": "1. Bổ sung tính năng xem ngày hết hạn token\n\n2.Tính năng thông báo"
+    "title": "Cập nhật phiên bản 1.5.0",
+    "content": "**I. Cập nhật Extension**\n- Fix lỗi tự động mở thêm tab Flow.\n- Tải extension phiên bản mới nhất tại:  \n  https://drive.google.com/drive/folders/1OdyJcBVUioh7QGhjUr-5et34LY7CkfVd?usp=sharing\n\n**II. Cập nhật Ứng dụng**\n- Đồng bộ models cho các tính năng:\n  - Văn bản → Video  \n  - Hình ảnh → Video  \n  - Tạo Video từ các thành phần\n- Hiển thị thông tin **ngày hết hạn License** trên header.\n- Tự động kiểm tra và cảnh báo **token sắp/hết hạn** trực tiếp trên header.\n- Tự động lựa chọn **user hợp lệ để sử dụng models** và cảnh báo user hết token ngay trên giao diện ngoài workspace."
   },
   {
     "id": 2,
     "time": "18/12/2025 00:00:00",
     "type": "SYSTEM",
-    "title": "Cập nhật extension 1.0", 
-    "content": "I. Cập nhật chung\n  + Bổ sung Fastflow Helper Extension\n  + Fix lỗi recaptchaToken"
+    "title": "Cập nhật extension 1.0",
+    "content": "Cập nhật chung:\n  + Bổ sung Fastflow Helper Extension\n  + Fix lỗi recaptchaToken"
   },
   {
     "id": 1,
     "time": "10/01/2026 00:00:00",
     "type": "TIP",
-    "title": "Hỗ trợ đa luồng", 
-    "content": "I. Tool có hỗ trợ mở nhiều tài khoản để tăng hiệu suất, hãy sử dụng nhé"
+    "title": "Hỗ trợ đa luồng",
+    "content": "Tool có hỗ trợ mở nhiều tài khoản để tăng hiệu suất, hãy sử dụng nhé."
   }
 ]
