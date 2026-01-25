@@ -1,5 +1,12 @@
 [
    {
+    "id": 7,
+    "time": "25/01/2026 13:45:00",
+    "type": "SYSTEM",
+    "title": "Cập nhật phiên bản 1.6.5",
+    "content": "Chúng tôi vừa update bản vá lỗi, quý khách vui lòng tải lại [extension bản mới tại đây](https://drive.google.com/drive/folders/16vgvX4xA4XU1qLTlBKJ5OboQM8LuZIp6?usp=drive_link)"
+  },
+   {
     "id": 6,
     "time": "14/01/2026 13:45:00",
     "type": "SYSTEM",
